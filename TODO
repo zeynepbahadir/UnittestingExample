@@ -1,0 +1,8 @@
+-x can create instance of checkout
+-x add item price
+-x add item
+-x calculate total
+-x add multiple items and get current total
+-x add discount rules
+- apply discount
+- exception thrown item added without price
